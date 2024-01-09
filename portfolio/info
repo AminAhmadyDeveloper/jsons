@@ -1,0 +1,14 @@
+{
+    "social-media": [
+        {
+            "icon": "github-logo",
+            "href": "https://github.com/aminahmadydeveloper",
+            "target": "_blank"
+        },
+        {
+            "icon": "linkedin-logo",
+            "href": "https://github.com/aminahmadydeveloper1",
+            "target": "_blank"
+        }
+    ]
+}
