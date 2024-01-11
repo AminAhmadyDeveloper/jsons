@@ -25,33 +25,45 @@
       }
     ],
     "children": "ReactNode",
-    "image": "https://raw.githubusercontent.com/AminAhmadyDeveloper/jsons/main/portfolio/images/mail-light.png",
+    "image": [
+      "https://raw.githubusercontent.com/AminAhmadyDeveloper/jsons/main/portfolio/images/mail-light.png",
+      "https://raw.githubusercontent.com/AminAhmadyDeveloper/jsons/main/portfolio/images/mail-light.png",
+      "https://raw.githubusercontent.com/AminAhmadyDeveloper/jsons/main/portfolio/images/mail-light.png",
+      "https://raw.githubusercontent.com/AminAhmadyDeveloper/jsons/main/portfolio/images/mail-light.png",
+      "https://raw.githubusercontent.com/AminAhmadyDeveloper/jsons/main/portfolio/images/mail-light.png",
+      "https://raw.githubusercontent.com/AminAhmadyDeveloper/jsons/main/portfolio/images/mail-light.png",
+      "https://raw.githubusercontent.com/AminAhmadyDeveloper/jsons/main/portfolio/images/mail-light.png"
+    ],
     "button": { "title": "ButtonProps", "variant": "default" }
   },
   {
     "title": "string",
     "subtitle": "string",
-    "technologies": [
-      {
-        "icon": " string | TrustedHTML",
-        "title": "string"
-      }
-    ],
     "children": "ReactNode",
-    "image": "https://raw.githubusercontent.com/AminAhmadyDeveloper/jsons/main/portfolio/images/mail-light.png",
+    "image": [
+      "https://raw.githubusercontent.com/AminAhmadyDeveloper/jsons/main/portfolio/images/mail-light.png",
+      "https://raw.githubusercontent.com/AminAhmadyDeveloper/jsons/main/portfolio/images/mail-light.png",
+      "https://raw.githubusercontent.com/AminAhmadyDeveloper/jsons/main/portfolio/images/mail-light.png",
+      "https://raw.githubusercontent.com/AminAhmadyDeveloper/jsons/main/portfolio/images/mail-light.png",
+      "https://raw.githubusercontent.com/AminAhmadyDeveloper/jsons/main/portfolio/images/mail-light.png",
+      "https://raw.githubusercontent.com/AminAhmadyDeveloper/jsons/main/portfolio/images/mail-light.png",
+      "https://raw.githubusercontent.com/AminAhmadyDeveloper/jsons/main/portfolio/images/mail-light.png"
+    ],
     "button": { "title": "ButtonProps", "variant": "default" }
   },
   {
     "title": "string",
     "subtitle": "string",
-    "technologies": [
-      {
-        "icon": " string | TrustedHTML",
-        "title": "string"
-      }
-    ],
     "children": "ReactNode",
-    "image": "https://raw.githubusercontent.com/AminAhmadyDeveloper/jsons/main/portfolio/images/mail-light.png",
+    "image": [
+      "https://raw.githubusercontent.com/AminAhmadyDeveloper/jsons/main/portfolio/images/mail-light.png",
+      "https://raw.githubusercontent.com/AminAhmadyDeveloper/jsons/main/portfolio/images/mail-light.png",
+      "https://raw.githubusercontent.com/AminAhmadyDeveloper/jsons/main/portfolio/images/mail-light.png",
+      "https://raw.githubusercontent.com/AminAhmadyDeveloper/jsons/main/portfolio/images/mail-light.png",
+      "https://raw.githubusercontent.com/AminAhmadyDeveloper/jsons/main/portfolio/images/mail-light.png",
+      "https://raw.githubusercontent.com/AminAhmadyDeveloper/jsons/main/portfolio/images/mail-light.png",
+      "https://raw.githubusercontent.com/AminAhmadyDeveloper/jsons/main/portfolio/images/mail-light.png"
+    ],
     "button": { "title": "ButtonProps", "variant": "default" }
   }
 ]
