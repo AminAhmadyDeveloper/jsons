@@ -25,7 +25,7 @@
       }
     ],
     "children": "ReactNode",
-    "image": [
+    "images": [
       "https://raw.githubusercontent.com/AminAhmadyDeveloper/jsons/main/portfolio/images/mail-light.png",
       "https://raw.githubusercontent.com/AminAhmadyDeveloper/jsons/main/portfolio/images/mail-light.png",
       "https://raw.githubusercontent.com/AminAhmadyDeveloper/jsons/main/portfolio/images/mail-light.png",
@@ -40,7 +40,7 @@
     "title": "string",
     "subtitle": "string",
     "children": "ReactNode",
-    "image": [
+    "images": [
       "https://raw.githubusercontent.com/AminAhmadyDeveloper/jsons/main/portfolio/images/mail-light.png",
       "https://raw.githubusercontent.com/AminAhmadyDeveloper/jsons/main/portfolio/images/mail-light.png",
       "https://raw.githubusercontent.com/AminAhmadyDeveloper/jsons/main/portfolio/images/mail-light.png",
@@ -55,7 +55,7 @@
     "title": "string",
     "subtitle": "string",
     "children": "ReactNode",
-    "image": [
+    "images": [
       "https://raw.githubusercontent.com/AminAhmadyDeveloper/jsons/main/portfolio/images/mail-light.png",
       "https://raw.githubusercontent.com/AminAhmadyDeveloper/jsons/main/portfolio/images/mail-light.png",
       "https://raw.githubusercontent.com/AminAhmadyDeveloper/jsons/main/portfolio/images/mail-light.png",
