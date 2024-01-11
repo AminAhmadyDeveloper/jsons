@@ -25,7 +25,7 @@
       }
     ],
     "children": "ReactNode",
-    "image": "string | StaticImport",
+    "image": "https://raw.githubusercontent.com/AminAhmadyDeveloper/jsons/main/portfolio/images/mail-light.png",
     "button": { "title": "ButtonProps", "variant": "default" }
   },
   {
@@ -38,7 +38,7 @@
       }
     ],
     "children": "ReactNode",
-    "image": "string | StaticImport",
+    "image": "https://raw.githubusercontent.com/AminAhmadyDeveloper/jsons/main/portfolio/images/mail-light.png",
     "button": { "title": "ButtonProps", "variant": "default" }
   },
   {
@@ -51,7 +51,7 @@
       }
     ],
     "children": "ReactNode",
-    "image": "string | StaticImport",
+    "image": "https://raw.githubusercontent.com/AminAhmadyDeveloper/jsons/main/portfolio/images/mail-light.png",
     "button": { "title": "ButtonProps", "variant": "default" }
   }
 ]
